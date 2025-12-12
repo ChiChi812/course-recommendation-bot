@@ -1,0 +1,6 @@
+python-telegram-bot>=21,<22
+Flask>=3
+pandas
+scikit-learn
+numpy
+python-dotenv
